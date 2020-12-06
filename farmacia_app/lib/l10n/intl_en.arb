@@ -1,0 +1,20 @@
+{
+    "simpleText": "My Pharmacy",
+    "simpleText1": "Email",
+    "simpleText2": "Password",
+    "simpleText3": "Forgot your password?",
+    "simpleText4": "Register",
+    "simpleText5": "Create",
+    "simpleText6": "Enter your email, we will send you instructions to reset your password",
+    "simpleText7": "User",
+    "simpleText8": "Confirm Password",
+    "simpleText9": "Do you already have an account?",
+    "simpleText10": "Create Pharmacy",
+    "simpleText11": "New Pharmacy",
+    "simpleText12": "Location",
+    "simpleText13": "Edit Pharmacy",
+    "simpleText14": "Edit Location",
+    "button": "Login",
+    "button1": "Send"
+}
+
