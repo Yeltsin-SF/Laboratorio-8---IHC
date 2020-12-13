@@ -35,6 +35,7 @@ class MyApp extends StatelessWidget {
         'CreateNewPharmacy': (context) => CreateNewPharmacy(),
         'ListPharmacy': (context) => ListPharmacy(),
         'EditPharmacy': (context) => EditPharmacy(),
+        'ChartsPharmacy': (context) => ChartsPharmacy(),
       },
     );
   }

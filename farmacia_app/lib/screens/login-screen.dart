@@ -89,6 +89,21 @@ class LoginScreen extends StatelessWidget {
               SizedBox(
                 height: 20,
               ),
+              GestureDetector(
+                onTap: () => Navigator.pushNamed(context, 'ChartsPharmacy'),
+                child: Container(
+                  child: Text(
+                    S.of(context).simpleText15,
+                    style: kBodyText,
+                  ),
+                  decoration: BoxDecoration(
+                      border:
+                          Border(bottom: BorderSide(width: 1, color: kWhite))),
+                ),
+              ),
+              SizedBox(
+                height: 20,
+              ),
             ],
           ),
         ),

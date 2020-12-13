@@ -185,6 +185,66 @@ class S {
     );
   }
 
+  /// `Charts`
+  String get simpleText15 {
+    return Intl.message(
+      'Charts',
+      name: 'simpleText15',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Clients during 2020`
+  String get simpleText16 {
+    return Intl.message(
+      'Clients during 2020',
+      name: 'simpleText16',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Pharmacy Market Share 2020 (%)`
+  String get simpleText17 {
+    return Intl.message(
+      'Pharmacy Market Share 2020 (%)',
+      name: 'simpleText17',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Sales in the first 5 years`
+  String get simpleText18 {
+    return Intl.message(
+      'Sales in the first 5 years',
+      name: 'simpleText18',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Money Raised in 2020`
+  String get simpleText19 {
+    return Intl.message(
+      'Money Raised in 2020',
+      name: 'simpleText19',
+      desc: '',
+      args: [],
+    );
+  }
+
+  /// `Most selled products`
+  String get simpleText20 {
+    return Intl.message(
+      'Most selled products',
+      name: 'simpleText20',
+      desc: '',
+      args: [],
+    );
+  }
+
   /// `Login`
   String get button {
     return Intl.message(

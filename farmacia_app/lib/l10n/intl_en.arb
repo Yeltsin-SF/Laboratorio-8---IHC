@@ -14,6 +14,12 @@
     "simpleText12": "Location",
     "simpleText13": "Edit Pharmacy",
     "simpleText14": "Edit Location",
+    "simpleText15": "Charts",
+    "simpleText16": "Clients during 2020",
+    "simpleText17": "Pharmacy Market Share 2020 (%)",
+    "simpleText18": "Sales in the first 5 years",
+    "simpleText19": "Money Raised in 2020",
+    "simpleText20": "Most selled products",
     "button": "Login",
     "button1": "Send"
 }
